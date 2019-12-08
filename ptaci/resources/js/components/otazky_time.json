@@ -1,0 +1,174 @@
+{
+    "title":"Quiz about Foo",
+    "questions":[
+        {
+            "text":"Je na obrázku Jíkavec severní?",
+            "picture":"/img/quiz/ptak8.jpg",
+            "ps":"p",
+            "type":"tf",
+            "answer":"t"
+        },
+        {
+            "text":"Je na obrázku iný pták než Kos černý?",
+            "picture":"/img/quiz/ptak9.jpg",
+            "ps":"p",
+            "type":"tf",
+            "answer":"f"
+        },
+        {
+            "text":"Jaký pták je na obrázku?",
+            "ps":"p",
+            "type":"mc",
+            "picture":"/img/quiz/ptak2.jpg",
+            "answers":[
+                "Brkoslav severní",
+                "Dlask tlustozobý",
+                "Sýkora parukářka",
+                "Ledňáček říční"
+            ],
+            "answer":"Brkoslav severní"
+        },
+        {
+            "text":"Je na obrázku Brhlík lesní?",
+            "ps":"p",
+            "type":"tf",
+            "picture":"/img/quiz/ptak1.jpg",
+            "answer":"t"
+        },    
+        {
+            "text":"Jaký pták je na obrázku?",
+            "ps":"p",
+            "type":"mc",
+            "picture":"/img/quiz/ptak3.jpg",
+            "answers":[
+                "Hýl obecný",
+                "Rehek zahradní",
+                "Ledňáček říční",
+                "Červenka obecná"
+            ],
+            "answer":"Brhlík lesní"
+        },
+        {
+            "text":"Je na obrázku Krahujec obecný?",
+            "ps":"p",
+            "picture":"/img/quiz/ptak10.jpg",
+            "type":"tf",
+            "answer":"t"
+        },
+        {
+            "text":"Jaký pták je na obrázku?",
+            "type":"mc",
+            "ps":"p",
+            "picture":"/img/quiz/ptak6.jpg",
+            "answers":[
+                "Ťuhýk obecný",
+                "Čížek lesní",
+                "Vrabec polní",
+                "Drozd kvíčala"
+            ],
+            "answer":"Drozd kvíčala"
+        },
+        {
+            "text":"Je na obrázku iný pták než Mlynařík dlouhoocasý?",
+            "ps":"p",
+            "picture":"/img/quiz/ptak11.jpg",
+            "type":"tf",
+            "answer":"f"
+        },
+        {
+            "text":"Jaký pták je na obrázku?",
+            "type":"mc",
+            "ps":"p",
+            "picture":"/img/quiz/ptak7.jpg",
+            "answers":[
+                "Holub doupňák",
+                "Čížek lesní",
+                "Hrdlička divoká",
+                "Hrdlička zahradní"
+            ],
+            "answer":"Hrdlička zahradní"
+        },
+        {
+            "text":"Je na obrázku iný pták než Stehlík obecný?",
+            "ps":"p",
+            "picture":"/img/quiz/ptak12.jpg",
+            "type":"tf",
+            "answer":"f"
+        },
+        {
+            "text":"Jaký pták je na obrázku?",
+            "type":"mc",
+            "ps":"p",
+            "picture":"/img/quiz/ptak4.jpg",
+            "answers":[
+                "Zvonek zelený",
+                "Čížek lesní",
+                "Sýkora parukářka",
+                "Zvonohlík zahradní"
+            ],
+            "answer":"Čížek lesní"
+        },
+        {
+            "text":"Jaký pták je na obrázku?",
+            "type":"mc",
+            "ps":"p",
+            "picture":"/img/quiz/ptak5.jpg",
+            "answers":[
+                "Dlask tlustozobý",
+                "Stehlík obecný",
+                "Sýkora parukářka",
+                "Jíkavec severní"
+            ],
+            "answer":"Dlask tlustozobý"
+        },
+        {
+            "text":"Je na obrázku iný pták než Strakapoud velký?",
+            "picture":"/img/quiz/ptak13.jpg",
+            "ps":"p",
+            "type":"tf",
+            "answer":"f"
+        },
+        {
+            "text":"Jaký pták je na obrázku?",
+            "type":"mc",
+            "ps":"p",
+            "picture":"/img/quiz/ptak4.jpg",
+            "answers":[
+                "Zvonek zelený",
+                "Čížek lesní",
+                "Sýkora parukářka",
+                "Zvonohlík zahradní"
+            ],
+            "answer":"Čížek lesní"
+        },
+        {
+            "text":"Jaký pták je na obrázku?",
+            "type":"mc",
+            "ps":"p",
+            "picture":"/img/quiz/ptak5.jpg",
+            "answers":[
+                "Dlask tlustozobý",
+                "Stehlík obecný",
+                "Sýkora parukářka",
+                "Jíkavec severní"
+            ],
+            "answer":"Dlask tlustozobý"
+        },
+        {
+            "text":"Je na obrázku Sýkora koňadra?",
+            "picture":"/img/quiz/ptak14.jpg",
+            "ps":"p",
+            "type":"tf",
+            "answer":"t"
+        },
+        {
+            "text":"Je na obrázku iný pták než Sýkora modřinka?",
+            "picture":"/img/quiz/ptak15.jpg",
+            "ps":"p",
+            "type":"tf",
+            "answer":"f"
+        }
+        
+    
+    ]
+}

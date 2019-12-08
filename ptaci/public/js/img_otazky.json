@@ -1,0 +1,110 @@
+{
+    "title":"Quiz about Foo",
+    "questions":[
+    {
+        "text":"Na kterém obrazku je Orel skalní?",
+        "cards":[
+            "/img/bird1.jpg",
+            "/img/bird2.jpg",
+            "/img/eagle.jpg",
+            "/img/orel_skalni/orel_skalni2.jpg"
+        ],    
+        "answer":"card-3"
+    },
+    {
+        "text":"Na kterém obrazku je Kos černý?",
+        "cards":[
+            "/img/quiz/ptak1.jpg",
+            "/img/quiz/ptak9.jpg",
+            "/img/eagle.jpg",
+            "/img/quiz/ptak4.jpg"
+        ],    
+        "answer":"card-1"
+    },
+    {
+        "text":"Který obrázek zobrazuje Jíkavca severního?",
+        "cards":[
+            "/img/quiz/ptak8.jpg",
+            "/img/quiz/ptak7.jpg",
+            "/img/quiz/ptak6.jpg",
+            "/img/quiz/ptak5.jpg"
+        ],    
+        "answer":"card-0"
+    },
+    {
+        "text":"Na kterém obrázku je Brhlík lesní?",
+        "cards":[
+            "/img/quiz/ptak3.jpg",
+            "/img/bird2.jpg",
+            "/img/eagle.jpg",
+            "/img/quiz/ptak1.jpg"
+        ],    
+        "answer":"card-3"
+    },
+
+    {
+        "text":"Který z uvedených ptáků je Vrabec polní?",
+        "cards":[
+            "/img/quiz/ptak16.jpg",
+            "/img/quiz/ptak15.jpg",
+            "/img/quiz/ptak14.jpg",
+            "/img/quiz/ptak13.jpg"
+        ],    
+        "answer":"card-0"
+    },
+    {
+        "text":"Který fešák je Zvonek zelený?",
+        "cards":[
+            "/img/quiz/ptak1.jpg",
+            "/img/quiz/ptak9.jpg",
+            "/img/quiz/ptak17.jpg",
+            "/img/quiz/ptak4.jpg"
+        ],    
+        "answer":"card-1"
+    },
+
+    {
+        "text":"Na kterém obrázku je Brhlík lesní?",
+        "cards":[
+            "/img/quiz/ptak3.jpg",
+            "/img/bird2.jpg",
+            "/img/eagle.jpg",
+            "/img/quiz/ptak1.jpg"
+        ],    
+        "answer":"card-3"
+    },
+    {
+        "text":"Který obrázek zobrazuje Jíkavca severního?",
+        "cards":[
+            "/img/quiz/ptak8.jpg",
+            "/img/quiz/ptak7.jpg",
+            "/img/quiz/ptak6.jpg",
+            "/img/quiz/ptak5.jpg"
+        ],    
+        "answer":"card-0"
+    },    {
+        "text":"Na kterém obrázku je Sojka obecní?",
+        "cards":[
+            "/img/quiz/ptak3.jpg",
+            "/img/bird2.jpg",
+            "/img/sojka_obecna/sojka-obecna1.jpg",
+            "/img/quiz/ptak1.jpg"
+        ],    
+        "answer":"card-2"
+    },
+    {
+        "text":"Který ze zobrazených je Vrabec domácí?",
+        "cards":[
+            "/img/quiz/ptak8.jpg",
+            "/img/quiz/ptak7.jpg",
+            "/img/quiz/ptak6.jpg",
+            "/img/quiz/ptak11.jpg"
+        ],    
+        "answer":"card-3"
+    }
+
+    ]
+}
+
+
+

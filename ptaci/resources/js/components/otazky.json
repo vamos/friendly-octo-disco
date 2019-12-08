@@ -1,0 +1,147 @@
+{
+"title":"Quiz about Foo",
+"questions":[
+    {
+        "text":"Patří zpěv Orlovi skalnímu?",
+        "sound":"/sound/orel-skalni.mp3",
+        "ps":"s",
+        "type":"tf",
+        "answer":"t"
+
+    },
+    {
+        "text":"Je na obrázku Jíkavec severní?",
+        "picture":"/img/quiz/ptak8.jpg",
+        "ps":"p",
+        "type":"tf",
+        "answer":"t"
+    },
+    {
+        "text":"Je na obrázku iný pták než Kos černý?",
+        "picture":"/img/quiz/ptak9.jpg",
+        "ps":"p",
+        "type":"tf",
+        "answer":"f"
+    },
+    {
+        "text":"Ptáčka na obrázku jistě znáte, jmenuje se?",
+        "ps":"p",
+        "type":"mc",
+        "picture":"/img/quiz/ptak2.jpg",
+        "answers":[
+            "Brkoslav severní",
+            "Dlask tlustozobý",
+            "Sýkora parukářka",
+            "Ledňáček říční"
+        ],
+        "answer":"Brkoslav severní"
+    },
+    {
+        "text":"Je na obrázku Brhlík lesní?",
+        "ps":"p",
+        "type":"tf",
+        "picture":"/img/quiz/ptak1.jpg",
+        "answer":"t"
+    },    
+    {
+        "text":"Jaký ptáček je na obrázku?",
+        "ps":"p",
+        "type":"mc",
+        "picture":"/img/quiz/ptak3.jpg",
+        "answers":[
+            "Hýl obecný",
+            "Rehek zahradní",
+            "Ledňáček říční",
+            "Červenka obecná"
+        ],
+        "answer":"Brhlík lesní"
+    },
+    {
+        "text":"Patří zpěv Sojky obecní?",
+        "sound":"/sound/stehlik-obecny.mp3",
+        "ps":"s",
+        "type":"tf",
+        "answer":"f"
+
+    },
+    {
+        "text":"Je na obrázku Krahujec obecný?",
+        "ps":"p",
+        "picture":"/img/quiz/ptak10.jpg",
+        "type":"tf",
+        "answer":"t"
+    },
+    {
+        "text":"Tenhle fešák se jmenuje?",
+        "type":"mc",
+        "ps":"p",
+        "picture":"/img/quiz/ptak6.jpg",
+        "answers":[
+            "Ťuhýk obecný",
+            "Čížek lesní",
+            "Vrabec polní",
+            "Drozd kvíčala"
+        ],
+        "answer":"Drozd kvíčala"
+    },
+    {
+        "text":"Patří zpěv Sojky obecní?",
+        "sound":"/sound/sojka-obecna.mp3",
+        "ps":"s",
+        "type":"tf",
+        "answer":"t"
+
+    },
+    {
+        "text":"Je na obrázku iný pták než Vrabec domácí?",
+        "ps":"p",
+        "picture":"/img/quiz/ptak11.jpg",
+        "type":"tf",
+        "answer":"f"
+    },
+    {
+        "text":"Jaký pták je na obrázku?",
+        "type":"mc",
+        "ps":"p",
+        "picture":"/img/quiz/ptak7.jpg",
+        "answers":[
+            "Holub doupňák",
+            "Čížek lesní",
+            "Hrdlička divoká",
+            "Hrdlička zahradní"
+        ],
+        "answer":"Hrdlička zahradní"
+    },
+    {
+        "text":"Patří zpěv Stehliku obecní?",
+        "sound":"/sound/stehlik-obecny.mp3",
+        "ps":"s",
+        "type":"tf",
+        "answer":"f"
+
+    },
+    {
+        "text":"Je na obrázku iný pták než Stehlík obecný?",
+        "ps":"p",
+        "picture":"/img/quiz/ptak12.jpg",
+        "type":"tf",
+        "answer":"f"
+    },
+    {
+        "text":"Patří zpěv Sojky obecní?",
+        "sound":"/sound/sojka-obecna.mp3",
+        "ps":"s",
+        "type":"tf",
+        "answer":"t"
+
+    },
+    {
+        "text":"Je na obrázku iný pták než Vrabec domácí?",
+        "ps":"p",
+        "picture":"/img/stehlik_obecny/stehlik-obecny3.jpg",
+        "type":"tf",
+        "answer":"f"
+    }
+
+]
+ }
